@@ -1,0 +1,104 @@
+﻿<Window x:Class="Ecampus2.WindowProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Ecampus2"
+    mc:Ignorable="d"
+        Title="WindowProfile" Height="600" Width="1080" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Visibility="Visible">
+
+    <StackPanel Background="WhiteSmoke">
+        <Grid Height="40">
+            <StackPanel HorizontalAlignment="Left" Margin="20 0">
+                <ComboBox FontSize="15" Width="50" Foreground="#FFA2A2A2" SelectedIndex="0" VerticalAlignment="Center" >
+                    <ComboBoxItem Content="EN"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="20 0">
+                <Button Content="FAQ" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFA2A2A2" FontSize="15" FontWeight="Bold" VerticalAlignment="Center"/>
+                <Button Content="CONTACT" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFA2A2A2" FontSize="15" FontWeight="Bold" VerticalAlignment="Center"/>
+                <Button Content="ORDER STATUS" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFA2A2A2" FontSize="15" FontWeight="Bold" VerticalAlignment="Center"/>
+                <Button Content="MY ACCOUNT" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFA2A2A2" FontSize="15" FontWeight="Bold" VerticalAlignment="Center" Click="Account_Click"/>
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Click="Button_Click_Exit">
+                    <materialDesign:PackIcon Kind="Power"  Foreground="#FFA2A2A2" Width="25" Height="25" />
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid Height="100">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10 0">
+                <Button Uid="0" Width="150" Content="LESSONS" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+                <Button Uid="1" Width="150" Content="SCHEDULE" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+                <Button Uid="2" Width="150" Content="Wi-Fi" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+                <Button Uid="3" Width="150" Content="PLACEMENT" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+                <Button Uid="4" Width="150" Content="RATING" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+                <Button Uid="5" Width="150" Content="TEACHERS" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+                <Button Uid="6" Width="150" Content="CHAT" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF2196F3" Click="Button_Click"/>
+            </StackPanel>
+            <Grid x:Name="GridCursor" Width="150" Height="5" Background="#FF2196F3" HorizontalAlignment="Left" Margin="10 0"/>
+        </Grid>
+
+        <Grid x:Name="GridMain">
+            <ScrollViewer x:Name="LessonMain"  Height="430" Background="SlateGray">
+                <StackPanel Height="auto" Name="StackMain" Background="Aquamarine" Margin="0,1,0,-1" >
+                    <Expander  Padding="0" Header="dsfsdf" Foreground="Aqua">
+                        <StackPanel>
+                            <Button></Button>
+                            <Button></Button>
+                            <Button></Button>
+                            <Button></Button>
+                            <Button></Button>
+                            <Button></Button>
+                            <Button></Button>
+                            <Button></Button>
+                        </StackPanel>
+                    </Expander>
+                </StackPanel>
+            </ScrollViewer>
+            <Grid Height="430" Background="Aquamarine" Margin="0,1,0,-1" x:Name="GridWiFi">
+                <Button Width="170" Margin="459,120,445,278" Click="Button_Click_2">Create new password</Button>
+                <TextBox Margin="459,157,445,250" Name="textBox1" IsReadOnly="True" />
+                <TextBlock Padding="1" Background="Aqua" HorizontalAlignment="Center" Text="UsernameWiFi:" Margin="372,160,620,251" Width="87" ></TextBlock>
+                <TextBox Margin="459,180,445,227"  Name="textbox2" IsReadOnly="True" />
+                <TextBlock Padding="1" Background="Aqua" HorizontalAlignment="Center" Text="PasswordWiFi:" Margin="376,183,620,228" Width="80" ></TextBlock>
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton }" Height="15" Margin="634,162,0,0" VerticalAlignment="Top" Width="23">
+                    <materialDesign:PackIcon Kind="ContentCopy" Foreground="#FFA2A2A2" Height="12" />
+                </Button>
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Height="15" Margin="634,183,0,0" VerticalAlignment="Top" Width="23">
+                    <materialDesign:PackIcon Kind="ContentCopy" Foreground="Black" Height="12" />
+                </Button>
+            </Grid>
+            <Grid Height="430" Panel.ZIndex="5" Background="Aquamarine" Margin="0,1,0,-1" x:Name="GridPlacement">
+                <TextBox Height="50" FontSize="30" Background="White" Width="642" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" Name="SearchBox" />
+                <Button Height="Auto" Margin="657,10,317,1" Click="Button_Click_4"  >
+                    <materialDesign:PackIcon HorizontalAlignment="Center" Kind="Search" Height ="40" Width="66"   />
+                </Button>
+                <ScrollViewer Grid.Row="1" Name ="Jobs">
+                    <StackPanel Background="DarkTurquoise" Orientation="Vertical" Name="JobsStack">
+                        <ListViewItem Uid="19" Margin="3 " Background="DarkGray" PreviewMouseLeftButtonUp="ListViewItem_Click">
+                            <StackPanel>
+                                <TextBlock Foreground="DarkBlue" Text="Программист"></TextBlock>
+                                <TextBlock Foreground="Black" Text="ООО ОНИТ"></TextBlock>
+                                <TextBlock Foreground="Black" Text="Ставрополь"></TextBlock>
+                                <TextBlock Margin="800,5,5,5" FontSize="15" Text=" from 50 000-70 000 RUR" />
+                            </StackPanel>
+                        </ListViewItem>
+                        
+                    </StackPanel>
+                    
+                </ScrollViewer>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="64"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+            </Grid>
+        </Grid>
+
+
+        <!--</ScrollViewer>-->
+
+
+
+    </StackPanel>
+</Window>

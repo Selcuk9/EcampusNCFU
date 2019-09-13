@@ -1,0 +1,21 @@
+﻿<Window x:Class="Ecampus2.AccountProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ecampus2"
+        mc:Ignorable="d"
+        Title="My account" Height="550" Width="300" ResizeMode="NoResize" Icon="C:\Users\79899\source\repos\Ecampus2\Ecampus2\Icons\id_card_icon_124180.ico">
+    <StackPanel>
+        <Ellipse Height="180" Width="250" StrokeThickness="5"  Stroke="DodgerBlue" StrokeDashCap="Round" Margin="2,0">
+            <Ellipse.Fill>
+                <ImageBrush AlignmentX="Right"  ImageSource="C:\Users\79899\Desktop\miky.jpg"  />
+            </Ellipse.Fill>
+        </Ellipse>
+        <ListViewItem Margin="5" FontSize="30" Background="Aqua" Content="  Place of study"  x:Name="PlaceStudy" Foreground="DarkOrange"/>
+        <ListViewItem FontSize="15" Background="CadetBlue" Margin="5" x:Name="StudentName" />
+        <ListViewItem Margin="5" x:Name="University" Background="DarkTurquoise"/>
+        <ListViewItem Margin="5" x:Name="Institute" Background="Gold" />
+        <ListViewItem Margin="5" x:Name="Kafedra" Background="DimGray"/>
+    </StackPanel>
+</Window>

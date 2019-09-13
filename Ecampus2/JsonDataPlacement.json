@@ -1,0 +1,1290 @@
+{
+  "items": [
+    {
+      "id": "33011224",
+      "premium": false,
+      "name": "Программист 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "Ленина",
+        "building": "415",
+        "description": null,
+        "lat": 45.03719,
+        "lng": 41.922416,
+        "raw": "Ставрополь, Ленина, 415",
+        "metro": null,
+        "metro_stations": [],
+        "id": "105499"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "24946",
+        "name": "Энергомера, Концерн",
+        "url": "https://api.hh.ru/employers/24946",
+        "alternate_url": "https://hh.ru/employer/24946",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/585215.png",
+          "240": "https://hhcdn.ru/employer-logo/2782116.png",
+          "90": "https://hhcdn.ru/employer-logo/2782115.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=24946",
+        "trusted": true
+      },
+      "published_at": "2019-09-09T10:13:15+03:00",
+      "created_at": "2019-09-09T10:13:15+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33011224",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33011224?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33011224",
+      "relations": [],
+      "snippet": {
+        "requirement": "...базе типовой конфигурации <highlighttext>1С</highlighttext>. Опыт обновления доработанных конфигураций. Знание встроенного языка и архитектуры платформы <highlighttext>1С</highlighttext>:Предприятие 8.x. ",
+        "responsibility": "Разработка, поддержка, сопровождение ПО <highlighttext>1С</highlighttext>:Предприятие."
+      },
+      "contacts": {
+        "name": "Компания Энергомера",
+        "email": "resume@energomera.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "8652",
+            "number": "335011",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24892440",
+      "premium": false,
+      "name": "Программист 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Доваторцев",
+        "building": "47б",
+        "description": null,
+        "lat": 45.010465,
+        "lng": 41.928695,
+        "raw": "Ставрополь, улица Доваторцев, 47б",
+        "metro": null,
+        "metro_stations": [],
+        "id": "394169"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "1235466",
+        "name": "ABS-AUTO Stavropol",
+        "url": "https://api.hh.ru/employers/1235466",
+        "alternate_url": "https://hh.ru/employer/1235466",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1991891.png",
+          "original": "https://hhcdn.ru/employer-logo-original/387408.png",
+          "90": "https://hhcdn.ru/employer-logo/1991890.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1235466",
+        "trusted": true
+      },
+      "published_at": "2019-09-09T09:31:30+03:00",
+      "created_at": "2019-09-09T09:31:30+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24892440",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/24892440?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/24892440",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт разработки «с нуля» конфигураций в среде «<highlighttext>1С</highlighttext>:Предприятие 8.2». Опыт разработки технической документации, технических заданий, описания программных...",
+        "responsibility": "...<highlighttext>1С</highlighttext> 8.2: Управление торговлей 11, Бухгалтерия предприятия 3.0. Разработка программных модулей и приложений на платформе <highlighttext>1С</highlighttext>..."
+      },
+      "contacts": {
+        "name": "Негорожина Анастасия",
+        "email": "hr.stav@abs-group.ru",
+        "phones": [
+          {
+            "comment": "Звонить только в будние дни с 09:00 до 18:00.",
+            "city": "938",
+            "number": "348-84-00",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32557532",
+      "premium": false,
+      "name": "Программист 1С/ Разработчик 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "968724",
+        "name": "Ямми Груп",
+        "url": "https://api.hh.ru/employers/968724",
+        "alternate_url": "https://hh.ru/employer/968724",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/652695.png",
+          "90": "https://hhcdn.ru/employer-logo/3051928.png",
+          "240": "https://hhcdn.ru/employer-logo/3051929.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=968724",
+        "trusted": true
+      },
+      "published_at": "2019-09-10T09:41:21+03:00",
+      "created_at": "2019-09-10T09:41:21+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=32557532",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/32557532?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/32557532",
+      "relations": [],
+      "snippet": {
+        "requirement": "...программных продуктов <highlighttext>1С</highlighttext>. - Опыт интеграции <highlighttext>1С</highlighttext> и сторонних БД/ПП. - Опыт групповой разработки. - Знание конфигураций <highlighttext>1С</highlighttext>: ERP...",
+        "responsibility": "Консультирование пользователей по вопросам ведения учета и работы в <highlighttext>1С</highlighttext>. - Модификация, обновление существующих и создание новых документов, отчетов, обработок..."
+      },
+      "contacts": {
+        "name": "Жарких Павел",
+        "email": "p.zharkikh@yummygroup.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "968",
+            "number": "2634381",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31591788",
+      "premium": false,
+      "name": "Программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 60000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2758791",
+        "name": "Эко-сити",
+        "url": "https://api.hh.ru/employers/2758791",
+        "alternate_url": "https://hh.ru/employer/2758791",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2799824.png",
+          "90": "https://hhcdn.ru/employer-logo/2799823.png",
+          "original": "https://hhcdn.ru/employer-logo-original/589642.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2758791",
+        "trusted": true
+      },
+      "published_at": "2019-09-08T11:19:14+03:00",
+      "created_at": "2019-09-08T11:19:14+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=31591788",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/31591788?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/31591788",
+      "relations": [],
+      "snippet": {
+        "requirement": "Уверенные навыки <highlighttext>1С</highlighttext> программирования.",
+        "responsibility": "Программирование внутренней программы на основе <highlighttext>1С</highlighttext> конфигурации и схожего программного продукта для масштабирования на территории страны."
+      },
+      "contacts": null
+    },
+    {
+      "id": "31105779",
+      "premium": false,
+      "name": "Программист 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "село Татарка",
+        "street": "улица Ленина",
+        "building": null,
+        "description": null,
+        "lat": 44.960943,
+        "lng": 41.94473,
+        "raw": "село Татарка, улица Ленина",
+        "metro": null,
+        "metro_stations": [],
+        "id": "663395"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "583041",
+        "name": "Группа компаний Монарх",
+        "url": "https://api.hh.ru/employers/583041",
+        "alternate_url": "https://hh.ru/employer/583041",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/597551.png",
+          "original": "https://hhcdn.ru/employer-logo-original/170592.png",
+          "240": "https://hhcdn.ru/employer-logo/597552.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=583041",
+        "trusted": true
+      },
+      "published_at": "2019-08-30T17:41:24+03:00",
+      "created_at": "2019-08-30T17:41:24+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=31105779",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/31105779?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/31105779",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт программирования в среде <highlighttext>1С</highlighttext> не менее 3 лет. Хорошее знание платформы <highlighttext>1С</highlighttext>:Предприятие 8. Конфигурирование (до настройка...",
+        "responsibility": "Консультирование пользователей <highlighttext>1С</highlighttext>, оперативное решение вопросов, связанных с ведением управленческого учета в системе <highlighttext>1С</highlighttext>: Комплексная Автоматизация."
+      },
+      "contacts": null
+    },
+    {
+      "id": "31378349",
+      "premium": false,
+      "name": "Программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "ул. Васильковая,29",
+        "building": null,
+        "description": null,
+        "lat": 44.988361,
+        "lng": 41.930779,
+        "raw": "Ставрополь, ул. Васильковая,29",
+        "metro": null,
+        "metro_stations": [],
+        "id": "120643"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "876275",
+        "name": "Группа Компаний Стилсофт",
+        "url": "https://api.hh.ru/employers/876275",
+        "alternate_url": "https://hh.ru/employer/876275",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1513355.png",
+          "90": "https://hhcdn.ru/employer-logo/1513354.png",
+          "original": "https://hhcdn.ru/employer-logo-original/267706.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=876275",
+        "trusted": true
+      },
+      "published_at": "2019-09-09T07:05:37+03:00",
+      "created_at": "2019-09-09T07:05:37+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=31378349",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/31378349?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/31378349",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы от 2-х лет. Высшее профильное образование. Знание языка программирования <highlighttext>1С</highlighttext> (в т.ч. работа с управляемыми...",
+        "responsibility": "Консультирование пользователей по работе с конфигурациями <highlighttext>1С</highlighttext> БП 3.0, <highlighttext>1С</highlighttext> ЗУП 3.1. Разработка новых разделов учета..."
+      },
+      "contacts": {
+        "name": "Евгения",
+        "email": "popova@stavuchet.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "961",
+            "number": "443-52-03",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33279186",
+      "premium": false,
+      "name": "Программист 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "916389",
+        "name": "Опт-Сервис КМВ",
+        "url": "https://api.hh.ru/employers/916389",
+        "alternate_url": "https://hh.ru/employer/916389",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=916389",
+        "trusted": true
+      },
+      "published_at": "2019-08-28T14:46:23+03:00",
+      "created_at": "2019-08-28T14:46:23+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33279186",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33279186?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33279186",
+      "relations": [],
+      "snippet": {
+        "requirement": "Образование в сфере IT. Опыт работы <highlighttext>программистом</highlighttext> <highlighttext>1С</highlighttext> версия 8. Знание <highlighttext>1С</highlighttext>: Предприятие 8 версии: внутреннего языка платформы...",
+        "responsibility": "...программных продуктов <highlighttext>1С</highlighttext> под условия работы компании. Разработка, поддержка и усовершенствование программного обеспечения на базе платформы <highlighttext>1С</highlighttext>. "
+      },
+      "contacts": {
+        "name": "Забавская Ульяна Александровна",
+        "email": "ok@oskmv.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "928",
+            "number": "2624416",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33220444",
+      "premium": false,
+      "name": "Программист 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 35000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3934922",
+        "name": "Кцоева Валентина Владимировна",
+        "url": "https://api.hh.ru/employers/3934922",
+        "alternate_url": "https://hh.ru/employer/3934922",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/626851.jpg",
+          "90": "https://hhcdn.ru/employer-logo/2948556.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2948557.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3934922",
+        "trusted": true
+      },
+      "published_at": "2019-08-26T10:10:23+03:00",
+      "created_at": "2019-08-26T10:10:23+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33220444",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33220444?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33220444",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт программирования в среде «<highlighttext>1С</highlighttext> 8.3» не менее 1 года. - Знание основ бухгалтерского учёта. - Знание основ управленческого учёта. - ",
+        "responsibility": "...<highlighttext>1С</highlighttext>: Предприятие 8 (типовые и не типовые конфигурации). - Автоматизация бизнес процессов по Т.З.. - Тестирование решений на платформе <highlighttext>1</highlighttext>..."
+      },
+      "contacts": {
+        "name": "Рыбина Марина",
+        "email": "mrybina928@gmail.com",
+        "phones": []
+      }
+    },
+    {
+      "id": "33173963",
+      "premium": false,
+      "name": "Программист 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Дзержинского",
+        "building": "160",
+        "description": null,
+        "lat": 45.0424,
+        "lng": 41.95507,
+        "raw": "Ставрополь, улица Дзержинского, 160",
+        "metro": null,
+        "metro_stations": [],
+        "id": "910021"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2771381",
+        "name": "АТОМ",
+        "url": "https://api.hh.ru/employers/2771381",
+        "alternate_url": "https://hh.ru/employer/2771381",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2771381",
+        "trusted": true
+      },
+      "published_at": "2019-08-22T10:57:17+03:00",
+      "created_at": "2019-08-22T10:57:17+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33173963",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33173963?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33173963",
+      "relations": [],
+      "snippet": {
+        "requirement": "Умение работать сразу над несколькими проектами. Должны иметься навыки работы с платформой <highlighttext>1С</highlighttext>. Наличие тех.образования. Желательно знание по СКД...",
+        "responsibility": "Разработка нового функционала. Доработка и сопровождение типовых конфигураций."
+      },
+      "contacts": {
+        "name": "Харченко Анна",
+        "email": "info@atom26.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "928",
+            "number": "3112190",
+            "country": "7"
+          },
+          {
+            "comment": null,
+            "city": "928",
+            "number": "3112190",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33364454",
+      "premium": false,
+      "name": "Программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 80000,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "1066298",
+        "name": "ФОНБЕТ",
+        "url": "https://api.hh.ru/employers/1066298",
+        "alternate_url": "https://hh.ru/employer/1066298",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3144709.png",
+          "90": "https://hhcdn.ru/employer-logo/3144708.png",
+          "original": "https://hhcdn.ru/employer-logo-original/675894.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1066298",
+        "trusted": true
+      },
+      "published_at": "2019-09-02T15:28:30+03:00",
+      "created_at": "2019-09-02T15:28:30+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33364454",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33364454?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33364454",
+      "relations": [],
+      "snippet": {
+        "requirement": "От Вас: Отличное знание платформы <highlighttext>1С</highlighttext>:Предприятие, ее инструментов, механизмов, методик разработки. Умение структурно мыслить и разрабатывать функционал с...",
+        "responsibility": "Разработка и поддержка внутренней конфигурации на базе <highlighttext>1С</highlighttext>:Предприятие."
+      },
+      "contacts": null
+    },
+    {
+      "id": "33397447",
+      "premium": false,
+      "name": "Программист 1С-Битрикс",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Пирогова",
+        "building": "20А",
+        "description": null,
+        "lat": 45.010688,
+        "lng": 41.914214,
+        "raw": "Ставрополь, улица Пирогова, 20А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3058592"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "4287763",
+        "name": "Один Клик",
+        "url": "https://api.hh.ru/employers/4287763",
+        "alternate_url": "https://hh.ru/employer/4287763",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4287763",
+        "trusted": true
+      },
+      "published_at": "2019-09-03T18:38:05+03:00",
+      "created_at": "2019-09-03T18:38:05+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33397447",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33397447?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33397447",
+      "relations": [],
+      "snippet": {
+        "requirement": "Хорошее знание и умение разрабатывать модули компоненты на платформе <highlighttext>1С</highlighttext>-Битрикс. Хорошее знание PHP, JavaScript, Jquery. Умение пользоваться SSH...",
+        "responsibility": "Основные обязанности разработка сайтов и проектов на платформе <highlighttext>1С</highlighttext>-Битрикс."
+      },
+      "contacts": null
+    },
+    {
+      "id": "33137897",
+      "premium": false,
+      "name": "Программист",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": null,
+        "to": 30000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Тельмана",
+        "building": "41",
+        "description": null,
+        "lat": 45.030209,
+        "lng": 41.965275,
+        "raw": "Ставрополь, улица Тельмана, 41",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3006511"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2198768",
+        "name": "Фрост",
+        "url": "https://api.hh.ru/employers/2198768",
+        "alternate_url": "https://hh.ru/employer/2198768",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2865869.png",
+          "90": "https://hhcdn.ru/employer-logo/2865868.png",
+          "original": "https://hhcdn.ru/employer-logo-original/606179.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2198768",
+        "trusted": true
+      },
+      "published_at": "2019-08-20T16:24:30+03:00",
+      "created_at": "2019-08-20T16:24:30+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33137897",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33137897?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33137897",
+      "relations": [],
+      "snippet": {
+        "requirement": "базовые навыки работы с <highlighttext>1C</highlighttext> Управление торговлей 11.4 CRM, Бухгалтерия 3.0. - аналитическое мышление. - обучаемость. - коммуникабельность. - ",
+        "responsibility": "поддержка и сопровождение учетной системы <highlighttext>1С</highlighttext>. - разработка технической документации. - поиск и устранение ошибок в <highlighttext>1С</highlighttext>."
+      },
+      "contacts": null
+    },
+    {
+      "id": "33055542",
+      "premium": false,
+      "name": "Программист-стажер 1C",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 20000,
+        "to": 30000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Доваторцев",
+        "building": "11А",
+        "description": null,
+        "lat": 45.02538,
+        "lng": 41.934651,
+        "raw": "Ставрополь, улица Доваторцев, 11А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1890470"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "894394",
+        "name": "Содействие",
+        "url": "https://api.hh.ru/employers/894394",
+        "alternate_url": "https://hh.ru/employer/894394",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/595265.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/595266.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/121393.JPG"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=894394",
+        "trusted": true
+      },
+      "published_at": "2019-08-15T15:23:51+03:00",
+      "created_at": "2019-08-15T15:23:51+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33055542",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33055542?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33055542",
+      "relations": [],
+      "snippet": {
+        "requirement": "Профильное образование/неоконченное. Желание развиваться в данной области. Наличие сертификатов будет преимуществом.",
+        "responsibility": "Доработка и изменение типовых конфигураций под новый функционал, программирование на платформе -<highlighttext>1С</highlighttext>:Предприятие 8. Работа по заявкам пользователей (2..."
+      },
+      "contacts": {
+        "name": "Светличная Дарья",
+        "email": "buhcentr_st@mail.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "865",
+            "number": "2997771",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33252429",
+      "premium": false,
+      "name": "Программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Пирогова",
+        "building": "66",
+        "description": null,
+        "lat": 45.003155,
+        "lng": 41.914574,
+        "raw": "Ставрополь, улица Пирогова, 66",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2626502"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "692553",
+        "name": "СтавАналит",
+        "url": "https://api.hh.ru/employers/692553",
+        "alternate_url": "https://hh.ru/employer/692553",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/476369.png",
+          "90": "https://hhcdn.ru/employer-logo/476368.png",
+          "original": "https://hhcdn.ru/employer-logo-original/151192.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=692553",
+        "trusted": true
+      },
+      "published_at": "2019-08-27T12:24:26+03:00",
+      "created_at": "2019-08-27T12:24:26+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33252429",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33252429?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33252429",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы с <highlighttext>1С</highlighttext> — от двух лет. Ты хорошо понимаешь устройство и работу <highlighttext>1С</highlighttext>, ты в курсе актуальных...",
+        "responsibility": "Оптимизировать скорость работы системы и баз данных заказчиков. Обеспечивать бесперебойность, информационную безопасность <highlighttext>1С</highlighttext> и её интеграцию с другими системами..."
+      },
+      "contacts": {
+        "name": "Бобырева Лидия Олеговна",
+        "email": "bobireva.l@stavanalit.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "8652",
+            "number": "991070",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32690816",
+      "premium": false,
+      "name": "Ассистент программиста 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 16000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "Ленина",
+        "building": "415",
+        "description": null,
+        "lat": 45.03719,
+        "lng": 41.922416,
+        "raw": "Ставрополь, Ленина, 415",
+        "metro": null,
+        "metro_stations": [],
+        "id": "105499"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "24946",
+        "name": "Энергомера, Концерн",
+        "url": "https://api.hh.ru/employers/24946",
+        "alternate_url": "https://hh.ru/employer/24946",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/585215.png",
+          "240": "https://hhcdn.ru/employer-logo/2782116.png",
+          "90": "https://hhcdn.ru/employer-logo/2782115.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=24946",
+        "trusted": true
+      },
+      "published_at": "2019-08-22T14:19:32+03:00",
+      "created_at": "2019-08-22T14:19:32+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=32690816",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/32690816?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/32690816",
+      "relations": [],
+      "snippet": {
+        "requirement": "Рассматриваются кандидаты без опыта работы. Знание встроенного языка и архитектуры платформы <highlighttext>1С</highlighttext>:Предприятие 8.х. Знание языка запросов.",
+        "responsibility": "Автоматизация бизнес-процессов."
+      },
+      "contacts": {
+        "name": "Компания Энергомера",
+        "email": "resume@energomera.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "8652",
+            "number": "335011",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31176376",
+      "premium": false,
+      "name": "Ведущий программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 75000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "description": null,
+        "lat": null,
+        "lng": null,
+        "raw": "Ставропольский край, Шпаковский район, Бройлерная промышленная зона, Бройлерная зона № 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "156275"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "50545",
+        "name": "Ресурс, ГАП",
+        "url": "https://api.hh.ru/employers/50545",
+        "alternate_url": "https://hh.ru/employer/50545",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/699183.png",
+          "original": "https://hhcdn.ru/employer-logo-original/221110.png",
+          "90": "https://hhcdn.ru/employer-logo/699182.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=50545",
+        "trusted": true
+      },
+      "published_at": "2019-08-21T15:57:19+03:00",
+      "created_at": "2019-08-21T15:57:19+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=31176376",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/31176376?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/31176376",
+      "relations": [],
+      "snippet": {
+        "requirement": "...<highlighttext>1С</highlighttext> 8.2. Высшее профессиональное образование, желательно наличие сертификатов фирмы <highlighttext>1С</highlighttext>. Желателен опыт программирования на платформах <highlighttext>1С</highlighttext>...",
+        "responsibility": "Обновление релизов конфигураций системы «<highlighttext>1С</highlighttext> 8 ». Разработка новых и доработка существующих объектов метаданных конфигураций. Участие в анализе Требований заказчика..."
+      },
+      "contacts": {
+        "name": "Ашхотова Карина Султановна",
+        "email": "k.ashhotova@gap-rs.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "928",
+            "number": "0787078",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33112581",
+      "premium": false,
+      "name": "Программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 60000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Ленина",
+        "building": "415",
+        "description": null,
+        "lat": 45.037177,
+        "lng": 41.922371,
+        "raw": "Ставрополь, улица Ленина, 415",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2565442"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3895797",
+        "name": "Агрохолдинг Энергомера",
+        "url": "https://api.hh.ru/employers/3895797",
+        "alternate_url": "https://hh.ru/employer/3895797",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3895797",
+        "trusted": true
+      },
+      "published_at": "2019-08-19T17:27:53+03:00",
+      "created_at": "2019-08-19T17:27:53+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33112581",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33112581?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33112581",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы в аналогичной должности от 1 года. Знание платформы <highlighttext>1С</highlighttext>: Предприятие 8. Знание типовой конфигурации Бухгалтерия 3.0. ",
+        "responsibility": "Разработка, внедрение и сопровождение информационных систем регламентированного учета на платформе <highlighttext>1С</highlighttext>:Предприятие."
+      },
+      "contacts": {
+        "name": "Дарья",
+        "email": "belyaevada@energomera.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "8652",
+            "number": "330828",
+            "country": "7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30288960",
+      "premium": false,
+      "name": "Специалист технической поддержки продуктов для физических лиц",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "78638",
+        "name": "Тинькофф",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2848221.png",
+          "90": "https://hhcdn.ru/employer-logo/2848220.png",
+          "original": "https://hhcdn.ru/employer-logo-original/601766.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "trusted": true
+      },
+      "published_at": "2019-09-11T11:23:29+03:00",
+      "created_at": "2019-09-11T11:23:29+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=30288960",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/30288960?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/30288960",
+      "relations": [],
+      "snippet": {
+        "requirement": "Интересуются основами SQL / ООП / поддержкой или разработкой <highlighttext>1C</highlighttext> (логический подход и навык работы с новой информацией существенно помогает сотрудникам...",
+        "responsibility": "Для решения потребуется диагностировать и воспроизводить ошибки, оценивать массовость и влияние, искать обходные решения. Ставить задачи <highlighttext>разработчикам</highlighttext> и контролировать их..."
+      },
+      "contacts": null
+    },
+    {
+      "id": "33484875",
+      "premium": false,
+      "name": "Программист (Web / PHP)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица 50 лет ВЛКСМ",
+        "building": "63Б",
+        "description": null,
+        "lat": 45.005819,
+        "lng": 41.92079,
+        "raw": "Ставрополь, улица 50 лет ВЛКСМ, 63Б",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1696180"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "108205",
+        "name": "Слимарт, Ставрополь",
+        "url": "https://api.hh.ru/employers/108205",
+        "alternate_url": "https://hh.ru/employer/108205",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/308532.jpg",
+          "90": "https://hhcdn.ru/employer-logo/1676498.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/1676499.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=108205",
+        "trusted": true
+      },
+      "published_at": "2019-09-09T12:19:04+03:00",
+      "created_at": "2019-09-09T12:19:04+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33484875",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33484875?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33484875",
+      "relations": [],
+      "snippet": {
+        "requirement": "PHP/MYSQL (OOP, composer). HTML/CSS. Опыт работы с различными CMS плюсом. Навыки в Frond-end. Наличие сертификатов <highlighttext>1С</highlighttext>...",
+        "responsibility": "Создание различных проектов. Работа с существующими сайтами."
+      },
+      "contacts": null
+    },
+    {
+      "id": "33402893",
+      "premium": false,
+      "name": "Программист 1С",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ставрополь",
+        "street": "улица Доваторцев",
+        "building": "11А",
+        "description": null,
+        "lat": 45.02538,
+        "lng": 41.934651,
+        "raw": "Ставрополь, улица Доваторцев, 11А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1890470"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "894394",
+        "name": "Содействие",
+        "url": "https://api.hh.ru/employers/894394",
+        "alternate_url": "https://hh.ru/employer/894394",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/595265.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/595266.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/121393.JPG"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=894394",
+        "trusted": true
+      },
+      "published_at": "2019-09-04T09:23:25+03:00",
+      "created_at": "2019-09-04T09:23:25+03:00",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=33402893",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/33402893?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/33402893",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт внедрения программного продукта <highlighttext>1С</highlighttext> на предприятиях (будет плюсом). Наличие сертификатов <highlighttext>1С</highlighttext>: Профессионал, <highlighttext>1С</highlighttext>: Специалист (платформа или...",
+        "responsibility": "Доработка и изменение типовых конфигураций под новый функционал, программирование на платформе -<highlighttext>1С</highlighttext>:Предприятие 8. Модификация и обновление существующих документов..."
+      },
+      "contacts": null
+    }
+  ],
+  "found": 27,
+  "pages": 2,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=84&enable_snippets=true&text=1C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82"
+}
